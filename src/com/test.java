@@ -8,6 +8,9 @@ public class test {
       
       System.out.println("User story - test cases");
       
+      int i =0;
+      System.out.println("X tester");
+      
       String str = "Java";
       System.out.println("reverse string---");
 
